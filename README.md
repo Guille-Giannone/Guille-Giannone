@@ -1,9 +1,10 @@
 
 ![212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f](https://github.com/Guille-Giannone/Guille-Giannone/assets/136030830/1bb385c9-92a4-4929-8530-eaa9d4ef1d10)
 
-hola en este momento soy estudiante de la tecnicatura en programacion en la universidad tecnologica nacional regional san rafael
+# HOLA  👋
+##  **_En este momento soy estudiante de la tecnicatura en programacion en la universidad tecnologica nacional regional san rafael_**
 
-en periodo de aprendizaje de
+### En periodo de aprendizaje de
 
 
   ![212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6](https://github.com/Guille-Giannone/Guille-Giannone/assets/136030830/a83a26c6-190b-4afb-9b3a-322a753bf800)
