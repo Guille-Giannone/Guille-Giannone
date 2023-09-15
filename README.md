@@ -4,12 +4,25 @@
 # HOLA  👋
 ##  **_En este momento soy estudiante de la tecnicatura en programacion en la universidad tecnologica nacional regional san rafael_**
 
-### En periodo de aprendizaje de
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Guille Giannone) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Guillermo Giannone) 
 
+## En periodo de aprendizaje de:
 
-  ![212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6](https://github.com/Guille-Giannone/Guille-Giannone/assets/136030830/a83a26c6-190b-4afb-9b3a-322a753bf800)
-    ![1366_2000](https://github.com/Guille-Giannone/Guille-Giannone/assets/136030830/a6ea3a80-92d4-4d18-99dd-ce0c93d9bcf1)
-            ![Python-Symbol_0](https://github.com/Guille-Giannone/Guille-Giannone/assets/136030830/ab15093d-d22d-4175-9bba-d1072452e86d)
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Guille-Giannone&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Guille-Giannone&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guille-Giannone&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Guille-Giannone&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Guille-Giannone&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
