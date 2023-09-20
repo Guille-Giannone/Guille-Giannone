@@ -5,7 +5,7 @@
 ##  **_En este momento soy estudiante de la Tecnicatura en Programación en la Universidad Tecnologica Nacional Regional San Rafael_**
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Guille Giannone) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guillermo-giannone-a62638244/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/guillermo.giannone.1?locale=es_LA) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guillermo-giannone-a62638244/) 
 
 ## En periodo de aprendizaje de:
 
