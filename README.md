@@ -2,7 +2,7 @@
 ![212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f](https://github.com/Guille-Giannone/Guille-Giannone/assets/136030830/1bb385c9-92a4-4929-8530-eaa9d4ef1d10)
 
 # HOLA  👋
-##  **_En este momento soy estudiante de la tecnicatura en programacion en la universidad tecnologica nacional regional san rafael_**
+##  **_En este momento soy estudiante de la Tecnicatura en Programación en la Universidad Tecnologica Nacional Regional San Rafael_**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Guille Giannone) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Guillermo Giannone) 
